@@ -1,0 +1,116 @@
+.navbar {
+    background-color: #6A0DAD !important;
+    padding-top: 0;
+    padding-bottom: 0;
+}
+
+.navbar-brand {
+    padding-left: 0 !important;
+}
+
+.nav-link {
+    color: white !important;
+    font-weight: bold;
+}
+
+
+/* @media screen and (max-width: 576px) {
+    .nav_bar_logo {
+        width: 100% !important;
+    }
+} */
+
+.fa-shopping-cart,
+.fa-user-circle-o {
+    font-size: 30px !important;
+}
+
+.btn-outline-light {
+    color: white;
+    border: 2px solid white;
+    font-size: large;
+    font-weight: bold;
+}
+
+
+/* Cards Starts */
+
+
+/* .products {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+} */
+
+.product_heading {
+    text-align: center;
+    color: #6A0DAD;
+    margin-top: 20px;
+    text-shadow: 2px 0px 2px #6A0DAD;
+}
+
+.products .col-lg-3,
+.products .col-xl-3 {
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+.card img {
+    width: 250px !important;
+    height: 300px !important;
+}
+
+.card {
+    width: 250px !important;
+    height: 450px;
+}
+
+.col-12 {
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+}
+
+.card-text,
+.btn-primary {
+    font-weight: bold;
+}
+
+.btn-primary {
+    background-color: #6A0DAD;
+}
+
+.card {
+    margin-top: 30px;
+    border: none;
+}
+
+
+/* Footer */
+
+.footer {
+    width: 100%;
+    background-color: #6A0DAD;
+    color: white;
+    height: 50px;
+    line-height: 50px;
+    text-align: center;
+    ;
+    /* padding-top: 5px;
+    padding-bottom: 5px; */
+}
+
+
+/* https://www.w3schools.com/css/tryit.asp?filename=trycss_align_line-height */
+
+.footer h6 {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+
+/*  */
+
+
+/* 1.16 */
